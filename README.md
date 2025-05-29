@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on my website
+- 🌱 I’m currently learning C
+- 👯 I’m looking to collaborate on small games and fun projects!
+- 💬 Ask me about music 
+- ⚡ Fun fact: I have much too many hobbies
 <!--
 **J-Tanvi/J-Tanvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
