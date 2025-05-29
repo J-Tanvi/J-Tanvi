@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on my website
+- 🔭 I’m currently working on this display :p
 - 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on small games and fun projects!
 - 💬 Ask me about music 
